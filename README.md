@@ -1,8 +1,8 @@
 # Twemoji-V2-CSS
 ## Support for Twemoji V2
-A full CSS file of Twemoji Flags, straight from the Maxcdn
+A full CSS file of Twemoji emojis, straight from the Maxcdn
 
-Simple add the CSS file (either mified or normal) to your HTML document. Then use the the emojis!
+Simply add the CSS file (either mified or normal) to your HTML document. Then use the the emojis!
 
 ### Example usage
 ```
